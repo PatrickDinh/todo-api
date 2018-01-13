@@ -19,3 +19,4 @@ Thumbs.db
 obj/
 [Rr]elease*/
 _ReSharper*/
+TodoApi/.vs/TodoApi/v15/Server/sqlite3/*
